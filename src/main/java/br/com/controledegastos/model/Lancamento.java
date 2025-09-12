@@ -1,3 +1,4 @@
+// src/main/java/br/com/controledegastos/model/Lancamento.java
 package br.com.controledegastos.model;
 
 import jakarta.persistence.*;
